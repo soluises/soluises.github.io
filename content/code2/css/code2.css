@@ -1976,6 +1976,12 @@
 				line-height: 19px;
 				letter-spacing: 0px;
 			}
+
+			.ocultamobile{
+				display: none;
+			}
+
+
 			.big {
 				font-size: 13px;
 				line-height: 19px;
