@@ -1380,8 +1380,8 @@
 			background: transparent;
 		}
 		#Side_slide {
-			background-color: #63c994;
-			border-color: #63c994;
+			background-color: #F44336;
+			border-color: #795548;
 		}
 		#Side_slide, #Side_slide .search-wrapper input.field, #Side_slide a:not(.action_button), #Side_slide #menu ul li.submenu .menu-toggle {
 			color: #000000;
